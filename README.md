@@ -1,5 +1,5 @@
 # ActionBarCustomBackgroundColor
-Styling the Action Bar. Customize the Background Color
+Styling the Action Bar. Customize the Background Color.<br/>
 Simple way to custom color Action Bar Android.
 
 <br/>
